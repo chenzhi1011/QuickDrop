@@ -3,8 +3,10 @@ QuickDrop は、デバイス間でファイルを素早く共有できるシン�
 アップロードされたファイルは 30 分後に自動削除され、使い捨て感覚で安心して利用できます。
 
 ## アクセス
+- デモサイト：([demo](https://a-quickdrop.vercel.app/))
 
-- デモサイト：［https://a-quickdrop.vercel.app/] (demo)
+## フロントエンドソースこど
+ここはバックエンドソースコードなので、フロントエンドソースコードは([こちら](https://github.com/chenzhi1011/Quickdrop-Frontend))
 
 ## 主な機能
 
@@ -27,26 +29,6 @@ QuickDrop は、デバイス間でファイルを素早く共有できるシン�
 - Render にデプロイ
 - スケジューラーによる期限切れファイル削除
 - CORS 対応済み（Vercel からのアクセスを許可）
-
-## 📁 ディレクトリ構成（概要）
-QuickDrop/  
-├── src/  
-│   └── main/  
-│       ├── java/com/quickdrop/  
-│       │   ├── controller/  
-│       │   ├── service/  
-│       │   ├── repository/  
-│       │   ├── entity/  
-│       │   └── scheduler/  
-│       └── resources/  
-│           └── application.yml  
-├── Frontend/  
-│   ├── index.html  
-│   ├── style.css  
-│   └── script.js  
-├── Dockerfile  
-├── README.md  
-
 
 ## 注意事項
 
