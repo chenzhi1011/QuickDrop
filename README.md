@@ -4,7 +4,7 @@ QuickDrop は、デバイス間でファイルを素早く共有できるシン�
 
 ## アクセス
 
-- デモサイト：［demo] (https://a-quickdrop.vercel.app/)
+- デモサイト：［https://a-quickdrop.vercel.app/] (demo)
 
 ## 主な機能
 
