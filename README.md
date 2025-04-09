@@ -3,10 +3,10 @@ QuickDrop は、デバイス間でファイルを素早く共有できるシン�
 アップロードされたファイルは 30 分後に自動削除され、使い捨て感覚で安心して利用できます。
 
 ## アクセス
-- デモサイト：([demo](https://a-quickdrop.vercel.app/))
+- デモサイト：[demo](https://a-quickdrop.vercel.app/)
 
 ## フロントエンドソースこど
-ここはバックエンドソースコードなので、フロントエンドソースコードは([こちら](https://github.com/chenzhi1011/Quickdrop-Frontend))
+ここはバックエンドソースコードなので、フロントエンドソースコードは[こちら](https://github.com/chenzhi1011/Quickdrop-Frontend)
 
 ## 主な機能
 
