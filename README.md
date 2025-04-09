@@ -2,11 +2,9 @@
 QuickDrop は、デバイス間でファイルを素早く共有できるシンプルなファイル転送アプリです。  
 アップロードされたファイルは 30 分後に自動削除され、使い捨て感覚で安心して利用できます。
 
----
-
 ## アクセス
 
-- デモサイト：［https://a-quickdrop.vercel.app/](https://a-quickdrop.vercel.app/)
+- デモサイト：［demo] (https://a-quickdrop.vercel.app/)
 
 ## 主な機能
 
