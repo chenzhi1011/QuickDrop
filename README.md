@@ -14,8 +14,6 @@ QuickDrop は、デバイス間でファイルを素早く共有できるシン�
 - 複数端末間でのファイル受け渡しを簡単に実現
 - レスポンシブ対応 UI（スマホ/タブレットでも快適）
 
----
-
 ## 使用技術
 
 ### フロントエンド
@@ -30,27 +28,25 @@ QuickDrop は、デバイス間でファイルを素早く共有できるシン�
 - スケジューラーによる期限切れファイル削除
 - CORS 対応済み（Vercel からのアクセスを許可）
 
----
-
 ## 📁 ディレクトリ構成（概要）
-QuickDrop/
-├── src/
-│   └── main/
-│       ├── java/com/quickdrop/
-│       │   ├── controller/
-│       │   ├── service/
-│       │   ├── repository/
-│       │   ├── entity/
-│       │   └── scheduler/
-│       └── resources/
-│           └── application.yml
-├── Frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── Dockerfile
-├── README.md
----
+QuickDrop/  
+├── src/  
+│   └── main/  
+│       ├── java/com/quickdrop/  
+│       │   ├── controller/  
+│       │   ├── service/  
+│       │   ├── repository/  
+│       │   ├── entity/  
+│       │   └── scheduler/  
+│       └── resources/  
+│           └── application.yml  
+├── Frontend/  
+│   ├── index.html  
+│   ├── style.css  
+│   └── script.js  
+├── Dockerfile  
+├── README.md  
+
 
 ## 注意事項
 
@@ -59,7 +55,6 @@ QuickDrop/
 - **Render 上のバックエンドは 15 分間アクセスがないと自動的に休眠状態になります。**  
   ➡️ そのため、初回アクセス時にはサーバーの起動に数秒〜十数秒かかる場合があります。
 
----
 
 ## 今後の改善アイデア
 
@@ -67,6 +62,3 @@ QuickDrop/
 -  有効期限カスタマイズ
 -  S3 へのアップロード対応
 -  PWA 化によるスマホ対応強化
-
----
-
